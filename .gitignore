@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/vcpkg_installed
+/x64
+/x32
