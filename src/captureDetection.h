@@ -7,6 +7,9 @@
 class captureDetection
 {
 public:
-	static void findBestMap();
+	static std::string currentMapPath;
+
+public:
+	static std::string takeScreenshotAndFindMap();
 };
 
