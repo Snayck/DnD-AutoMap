@@ -1,5 +1,6 @@
 # Dark and Darker Automatic Map
 #### Automatically detects what map you're currently playing on and displays it.
+## Credits / Dependencies
 #### Uses some of the logic behind https://github.com/mtHuberty/dndgps.
 #### https://github.com/ozymandiaslone/Darkographer might be better but I don't know 'go' so I wrote my own in c++
 #### Requires: vcpkg
