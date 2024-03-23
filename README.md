@@ -1,8 +1,9 @@
 # Dark and Darker Automatic Map
 #### Automatically detects what map you're currently playing on and displays it.
 ## Credits / Dependencies
-#### Uses some of the logic behind https://github.com/mtHuberty/dndgps.
-#### https://github.com/ozymandiaslone/Darkographer might be better but I don't know 'go' so I wrote my own in c++
+<p> Uses some of the logic behind https://github.com/mtHuberty/dndgps. </p>
+<p> https://github.com/ozymandiaslone/Darkographer might be better but I don't know 'go' so I wrote my own in c++ </p>
+
 #### Requires: vcpkg
 - vcpkg will acquire https://github.com/opencv/opencv on build
  ## to do
