@@ -168,7 +168,7 @@ std::string captureDetection::takeScreenshotAndFindMap()
             // Only keep really good matches
             std::vector<DMatch> good_matches;
             for (const DMatch& match : matches) {
-                if (match.distance < 50) {
+                if (match.distance < 30) {
                     good_matches.push_back(match);
                 }
             }
