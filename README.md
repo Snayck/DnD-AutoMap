@@ -1,5 +1,6 @@
 # Dark and Darker Automatic Map
 #### Automatically detects what map you're currently playing on and displays it.
+![alt text](/image.png?raw=true)
 ## Credits / Dependencies
 <p> If you plan on using bits of the code or reference it in your own please credit me in your project </p>
 <p> Uses some of the logic behind https://github.com/mtHuberty/dndgps. </p>
